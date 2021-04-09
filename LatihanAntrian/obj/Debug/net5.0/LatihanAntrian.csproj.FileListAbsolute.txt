@@ -1,0 +1,16 @@
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.exe
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.deps.json
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.runtimeconfig.json
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.runtimeconfig.dev.json
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.dll
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\ref\LatihanAntrian.dll
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\bin\Debug\net5.0\LatihanAntrian.pdb
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.csprojAssemblyReference.cache
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.dll
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\ref\LatihanAntrian.dll
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.pdb
+D:\Kuliah\SEMESTER 2\PBO\uts\LatihanAntrian\obj\Debug\net5.0\LatihanAntrian.genruntimeconfig.cache
